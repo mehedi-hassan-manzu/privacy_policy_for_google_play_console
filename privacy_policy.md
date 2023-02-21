@@ -3,7 +3,7 @@ Privacy Policy for Google Play Store (Families Policy Requirements)
 Last updated: Ferbruary 21, 2023
 
 Our Commitment to Privacy
-We, renamebd, take privacy seriously and are committed to protecting the personal information of our users. This Privacy Policy applies to our Google Play Store app(s) that are intended for children under the age of 13, as defined by the Children's Online Privacy Protection Act (COPPA) and the Google Play Families Policy.
+We, renamebd, take privacy seriously and are committed to protecting the personal information of our users. This Privacy Policy applies to our Google Play Store app(s) that are intended for children under the age of 13, as defined by the Children's Online Privacy Protection Act (COPPA), EU General Data Protection Regulation GDPR and the Google Play Families Policy.
 
 Information We Collect
 When you use our app, we may collect the following types of information:
